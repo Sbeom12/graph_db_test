@@ -1,0 +1,552 @@
+[
+    {
+        "name": "고객센터 - 민원처리프로세스.pdf",
+        "pages": [
+            {
+                "page_no": 1,
+                "chunks": [
+                    {
+                        "chunk_id": "#/tables/0",
+                        "chunk_label": "table",
+                        "chunk_type": "table",
+                        "chunk_content": "금융소비자보호체계\n\n| 금융소비자보호 내부통제기준 | 금융소비자보호기준 | 금융소비자보호헌장 | 소비자보호조직도 |\n|---|---|---|---|\n| 민원처리프로세스 | 상품개발프로세스 | 금융소비자의 유의사항 | 금융소비자의 권리안내 |\n\n::description::\nStep 1: 요약  \n이 테이블은 금융소비자보호체계의 주요 구성 요소들을 4개의 항목으로 나누어 각각 내부통제기준, 보호기준, 보호헌장, 조직도로 구분하여 보여준다.\n\nStep 2: 구조화 (Column-based)  \n- 금융소비자보호 내부통제기준: [민원처리프로세스]  \n- 금융소비자보호기준: [상품개발프로세스]  \n- 금융소비자보호헌장: [금융소비자의 유의사항]  \n- 소비자보호조직도: [금융소비자의 권리안내]",
+                        "chunk_bbox": {
+                            "l": 0.045,
+                            "t": 0.05,
+                            "r": 0.045,
+                            "b": 0.846
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/0",
+                                "label": "text",
+                                "content": "금융소비자보호체계",
+                                "bbox": {
+                                    "l": 0.046,
+                                    "t": 0.05,
+                                    "r": 0.721,
+                                    "b": 0.928
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/tables/0",
+                                "label": "table",
+                                "content": "| 금융소비자보호 내부통제기준 | 금융소비자보호기준 | 금융소비자보호헌장 | 소비자보호조직도 |\n|---|---|---|---|\n| 민원처리프로세스 | 상품개발프로세스 | 금융소비자의 유의사항 | 금융소비자의 권리안내 |\n\n::description::\nStep 1: 요약  \n이 테이블은 금융소비자보호체계의 주요 구성 요소들을 4개의 항목으로 나누어 각각 내부통제기준, 보호기준, 보호헌장, 조직도로 구분하여 보여준다.\n\nStep 2: 구조화 (Column-based)  \n- 금융소비자보호 내부통제기준: [민원처리프로세스]  \n- 금융소비자보호기준: [상품개발프로세스]  \n- 금융소비자보호헌장: [금융소비자의 유의사항]  \n- 소비자보호조직도: [금융소비자의 권리안내]",
+                                "bbox": {
+                                    "l": 0.045,
+                                    "t": 0.091,
+                                    "r": 0.045,
+                                    "b": 0.846
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "page_no": 2,
+                "chunks": [
+                    {
+                        "chunk_id": "#/texts/1",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "민원신청",
+                        "chunk_bbox": {
+                            "l": 0.144,
+                            "t": 0.163,
+                            "r": 0.791,
+                            "b": 0.82
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/1",
+                                "label": "text",
+                                "content": "민원신청",
+                                "bbox": {
+                                    "l": 0.144,
+                                    "t": 0.163,
+                                    "r": 0.791,
+                                    "b": 0.82
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/4",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "민원접수\n\n민원신청서제출\n\n민원인",
+                        "chunk_bbox": {
+                            "l": 0.151,
+                            "t": 0.163,
+                            "r": 0.576,
+                            "b": 0.704
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/2",
+                                "label": "text",
+                                "content": "민원접수",
+                                "bbox": {
+                                    "l": 0.358,
+                                    "t": 0.163,
+                                    "r": 0.576,
+                                    "b": 0.82
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/4",
+                                "label": "text",
+                                "content": "민원신청서제출",
+                                "bbox": {
+                                    "l": 0.237,
+                                    "t": 0.263,
+                                    "r": 0.669,
+                                    "b": 0.721
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/5",
+                                "label": "text",
+                                "content": "민원인",
+                                "bbox": {
+                                    "l": 0.151,
+                                    "t": 0.28,
+                                    "r": 0.799,
+                                    "b": 0.704
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/6",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "조사\n\n조사 및 검토\n\n(14영업일 이내 처리\n\n단, 처리기간 연장 및 산입예외 유의)\n\n금융소비자 보호부\n\n민원접수사실통지(민원서류보완요청)\n\n자료제출 요구\n\n자료제출\n\n관련직원 /부서",
+                        "chunk_bbox": {
+                            "l": 0.228,
+                            "t": 0.164,
+                            "r": 0.289,
+                            "b": 0.519
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/3",
+                                "label": "text",
+                                "content": "조사",
+                                "bbox": {
+                                    "l": 0.588,
+                                    "t": 0.164,
+                                    "r": 0.374,
+                                    "b": 0.82
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/6",
+                                "label": "text",
+                                "content": "조사 및 검토\n\n(14영업일 이내 처리\n\n단, 처리기간 연장 및 산입예외 유의)",
+                                "bbox": {
+                                    "l": 0.501,
+                                    "t": 0.24,
+                                    "r": 0.289,
+                                    "b": 0.719
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/7",
+                                "label": "text",
+                                "content": "금융소비자 보호부",
+                                "bbox": {
+                                    "l": 0.353,
+                                    "t": 0.276,
+                                    "r": 0.568,
+                                    "b": 0.693
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/8",
+                                "label": "text",
+                                "content": "민원접수사실통지(민원서류보완요청)",
+                                "bbox": {
+                                    "l": 0.228,
+                                    "t": 0.297,
+                                    "r": 0.659,
+                                    "b": 0.675
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/10",
+                                "label": "text",
+                                "content": "자료제출 요구",
+                                "bbox": {
+                                    "l": 0.324,
+                                    "t": 0.364,
+                                    "r": 0.62,
+                                    "b": 0.609
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/11",
+                                "label": "text",
+                                "content": "자료제출",
+                                "bbox": {
+                                    "l": 0.403,
+                                    "t": 0.369,
+                                    "r": 0.539,
+                                    "b": 0.614
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/12",
+                                "label": "text",
+                                "content": "관련직원 /부서",
+                                "bbox": {
+                                    "l": 0.358,
+                                    "t": 0.448,
+                                    "r": 0.574,
+                                    "b": 0.519
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/13",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "결정\n\n(일부) 수용\n\n기각\n\n회신",
+                        "chunk_bbox": {
+                            "l": 0.737,
+                            "t": 0.279,
+                            "r": 0.093,
+                            "b": 0.52
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/9",
+                                "label": "text",
+                                "content": "결정",
+                                "bbox": {
+                                    "l": 0.805,
+                                    "t": 0.279,
+                                    "r": 0.158,
+                                    "b": 0.703
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/13",
+                                "label": "text",
+                                "content": "(일부) 수용",
+                                "bbox": {
+                                    "l": 0.737,
+                                    "t": 0.447,
+                                    "r": 0.217,
+                                    "b": 0.52
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/14",
+                                "label": "text",
+                                "content": "기각\n\n회신",
+                                "bbox": {
+                                    "l": 0.868,
+                                    "t": 0.445,
+                                    "r": 0.093,
+                                    "b": 0.522
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/15",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "단순질문, 불편사항, 제안사항",
+                        "chunk_bbox": {
+                            "l": 0.11,
+                            "t": 0.57,
+                            "r": 0.743,
+                            "b": 0.396
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/15",
+                                "label": "text",
+                                "content": "단순질문, 불편사항, 제안사항",
+                                "bbox": {
+                                    "l": 0.11,
+                                    "t": 0.57,
+                                    "r": 0.743,
+                                    "b": 0.396
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/16",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "금융지원센터(1588-4488)\n\n홈페이지 > 고객센터 > 고객상담 > 고객문의",
+                        "chunk_bbox": {
+                            "l": 0.508,
+                            "t": 0.569,
+                            "r": 0.19,
+                            "b": 0.392
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/16",
+                                "label": "text",
+                                "content": "금융지원센터(1588-4488)\n\n홈페이지 > 고객센터 > 고객상담 > 고객문의",
+                                "bbox": {
+                                    "l": 0.508,
+                                    "t": 0.569,
+                                    "r": 0.19,
+                                    "b": 0.392
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/17",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "전산시스템 장애로 인한 주문장애(HTS 등)",
+                        "chunk_bbox": {
+                            "l": 0.102,
+                            "t": 0.669,
+                            "r": 0.727,
+                            "b": 0.296
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/17",
+                                "label": "text",
+                                "content": "전산시스템 장애로 인한 주문장애(HTS 등)",
+                                "bbox": {
+                                    "l": 0.102,
+                                    "t": 0.669,
+                                    "r": 0.727,
+                                    "b": 0.296
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/18",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "비상주문(전화주문)\n\n금융지원센터, 영업점",
+                        "chunk_bbox": {
+                            "l": 0.419,
+                            "t": 0.667,
+                            "r": 0.417,
+                            "b": 0.298
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/18",
+                                "label": "text",
+                                "content": "비상주문(전화주문)\n\n금융지원센터, 영업점",
+                                "bbox": {
+                                    "l": 0.419,
+                                    "t": 0.667,
+                                    "r": 0.417,
+                                    "b": 0.298
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/20",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "비상주문 불가시 장애보상\n\n금융지원센터\n\n*홈페이지 > 고객센터 > 금융소비자정보포털 > 온라인 장애 대처요령/보상절차 참조",
+                        "chunk_bbox": {
+                            "l": 0.388,
+                            "t": 0.667,
+                            "r": 0.084,
+                            "b": 0.258
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/19",
+                                "label": "text",
+                                "content": "비상주문 불가시 장애보상\n\n금융지원센터",
+                                "bbox": {
+                                    "l": 0.716,
+                                    "t": 0.667,
+                                    "r": 0.085,
+                                    "b": 0.299
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/20",
+                                "label": "text",
+                                "content": "*홈페이지 > 고객센터 > 금융소비자정보포털 > 온라인 장애 대처요령/보상절차 참조",
+                                "bbox": {
+                                    "l": 0.388,
+                                    "t": 0.725,
+                                    "r": 0.084,
+                                    "b": 0.258
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/21",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "(불법, 부당한 행위로 인한 손해 등 보상, 개선)",
+                        "chunk_bbox": {
+                            "l": 0.101,
+                            "t": 0.797,
+                            "r": 0.734,
+                            "b": 0.173
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/21",
+                                "label": "text",
+                                "content": "(불법, 부당한 행위로 인한 손해 등 보상, 개선)",
+                                "bbox": {
+                                    "l": 0.101,
+                                    "t": 0.797,
+                                    "r": 0.734,
+                                    "b": 0.173
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/22",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "금융소비자보호부\n\n홈페이지 > 고객센터 > 금융소비자정보포털 > 전자민원",
+                        "chunk_bbox": {
+                            "l": 0.47,
+                            "t": 0.785,
+                            "r": 0.154,
+                            "b": 0.176
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/22",
+                                "label": "text",
+                                "content": "금융소비자보호부\n\n홈페이지 > 고객센터 > 금융소비자정보포털 > 전자민원",
+                                "bbox": {
+                                    "l": 0.47,
+                                    "t": 0.785,
+                                    "r": 0.154,
+                                    "b": 0.176
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "metadata": {
+            "filename": "고객센터 - 민원처리프로세스.pdf",
+            "total_pages": 2,
+            "total_chunks": 12,
+            "processing_sec": 4.9190099239349365
+        }
+    },
+    4953
+]

@@ -1,0 +1,1436 @@
+[
+    {
+        "name": "고객센터 - 비대면계좌개설.pdf",
+        "pages": [
+            {
+                "page_no": 1,
+                "chunks": [
+                    {
+                        "chunk_id": "#/texts/0",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "비대면 계좌개설",
+                        "chunk_bbox": {
+                            "l": 0.045,
+                            "t": 0.049,
+                            "r": 0.762,
+                            "b": 0.927
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/0",
+                                "label": "text",
+                                "content": "비대면 계좌개설",
+                                "bbox": {
+                                    "l": 0.045,
+                                    "t": 0.049,
+                                    "r": 0.762,
+                                    "b": 0.927
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "page_no": 2,
+                "chunks": [
+                    {
+                        "chunk_id": "#/texts/1",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "1976-02-04",
+                        "chunk_bbox": {
+                            "l": 0.0,
+                            "t": 0.0,
+                            "r": 0.002,
+                            "b": 0.001
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/1",
+                                "label": "text",
+                                "content": "1976-02-04",
+                                "bbox": {
+                                    "l": 0.0,
+                                    "t": 0.0,
+                                    "r": 0.002,
+                                    "b": 0.001
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "page_no": 3,
+                "chunks": [
+                    {
+                        "chunk_id": "#/texts/4",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "비대면 계좌개설 이란?\n\n영업점 방문없이 스마트폰만 있으면 계좌개설부터 거래까지 OK!!\n\n영업점 방문없이 스마트폰만 있으면 계좌개설부터 거래까지 OK!! 대신증권이 제공하는 투자전략 및 다양한 금융서비스를 경험해보세요.\n\n대신증권이 제공하는 투자전략 및 다양한 금융서비스를 경험해보세요.\n\n신청하기 전,3가지만 준비해주세요!!\n\n·신분증(주민등록증 또는 운전면허증)\n\n·본인명의 휴대폰(CYBOS Touch 설치 필수)\n\n·본인명의은행또는증권계좌(당사또는타금융기관에이체가능한계좌)\n\nCYBOS Touch 다운로드\n\n만19세 이상 내국인 개인고객(법인, 외국인, 대리인 불가)\n\n신청 가능 시간\n\n24시간365일 가능 (단, 23:40 ~ 00:30 제외)\n\n개설 가능한 상품\n\n·종합투자상품(국내주식, 펀드 등 금융상품)\n\n·해외주식\n\n· CMA\n\n· 개인형퇴직연금(IRP)",
+                        "chunk_bbox": {
+                            "l": 0.145,
+                            "t": 0.084,
+                            "r": 0.151,
+                            "b": 0.286
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/2",
+                                "label": "text",
+                                "content": "비대면 계좌개설 이란?",
+                                "bbox": {
+                                    "l": 0.145,
+                                    "t": 0.084,
+                                    "r": 0.571,
+                                    "b": 0.889
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/3",
+                                "label": "text",
+                                "content": "영업점 방문없이 스마트폰만 있으면 계좌개설부터 거래까지 OK!!",
+                                "bbox": {
+                                    "l": 0.145,
+                                    "t": 0.118,
+                                    "r": 0.238,
+                                    "b": 0.858
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/4",
+                                "label": "text",
+                                "content": "영업점 방문없이 스마트폰만 있으면 계좌개설부터 거래까지 OK!! 대신증권이 제공하는 투자전략 및 다양한 금융서비스를 경험해보세요.",
+                                "bbox": {
+                                    "l": 0.145,
+                                    "t": 0.118,
+                                    "r": 0.194,
+                                    "b": 0.829
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/5",
+                                "label": "text",
+                                "content": "대신증권이 제공하는 투자전략 및 다양한 금융서비스를 경험해보세요.",
+                                "bbox": {
+                                    "l": 0.145,
+                                    "t": 0.146,
+                                    "r": 0.194,
+                                    "b": 0.83
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/6",
+                                "label": "text",
+                                "content": "신청하기 전,3가지만 준비해주세요!!",
+                                "bbox": {
+                                    "l": 0.146,
+                                    "t": 0.194,
+                                    "r": 0.402,
+                                    "b": 0.779
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/7",
+                                "label": "text",
+                                "content": "·신분증(주민등록증 또는 운전면허증)",
+                                "bbox": {
+                                    "l": 0.146,
+                                    "t": 0.23,
+                                    "r": 0.485,
+                                    "b": 0.746
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/8",
+                                "label": "text",
+                                "content": "·본인명의 휴대폰(CYBOS Touch 설치 필수)",
+                                "bbox": {
+                                    "l": 0.146,
+                                    "t": 0.258,
+                                    "r": 0.424,
+                                    "b": 0.718
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/9",
+                                "label": "text",
+                                "content": "·본인명의은행또는증권계좌(당사또는타금융기관에이체가능한계좌)",
+                                "bbox": {
+                                    "l": 0.145,
+                                    "t": 0.286,
+                                    "r": 0.151,
+                                    "b": 0.689
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/10",
+                                "label": "text",
+                                "content": "CYBOS Touch 다운로드",
+                                "bbox": {
+                                    "l": 0.376,
+                                    "t": 0.339,
+                                    "r": 0.374,
+                                    "b": 0.638
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/12",
+                                "label": "text",
+                                "content": "만19세 이상 내국인 개인고객(법인, 외국인, 대리인 불가)",
+                                "bbox": {
+                                    "l": 0.145,
+                                    "t": 0.439,
+                                    "r": 0.316,
+                                    "b": 0.536
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/13",
+                                "label": "text",
+                                "content": "신청 가능 시간",
+                                "bbox": {
+                                    "l": 0.146,
+                                    "t": 0.487,
+                                    "r": 0.665,
+                                    "b": 0.484
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/14",
+                                "label": "text",
+                                "content": "24시간365일 가능 (단, 23:40 ~ 00:30 제외)",
+                                "bbox": {
+                                    "l": 0.146,
+                                    "t": 0.523,
+                                    "r": 0.423,
+                                    "b": 0.452
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/15",
+                                "label": "text",
+                                "content": "개설 가능한 상품",
+                                "bbox": {
+                                    "l": 0.146,
+                                    "t": 0.57,
+                                    "r": 0.638,
+                                    "b": 0.402
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/16",
+                                "label": "text",
+                                "content": "·종합투자상품(국내주식, 펀드 등 금융상품)",
+                                "bbox": {
+                                    "l": 0.146,
+                                    "t": 0.605,
+                                    "r": 0.432,
+                                    "b": 0.37
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/17",
+                                "label": "text",
+                                "content": "·해외주식",
+                                "bbox": {
+                                    "l": 0.146,
+                                    "t": 0.634,
+                                    "r": 0.744,
+                                    "b": 0.343
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/18",
+                                "label": "text",
+                                "content": "· CMA",
+                                "bbox": {
+                                    "l": 0.146,
+                                    "t": 0.662,
+                                    "r": 0.777,
+                                    "b": 0.315
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/19",
+                                "label": "text",
+                                "content": "· 개인형퇴직연금(IRP)",
+                                "bbox": {
+                                    "l": 0.146,
+                                    "t": 0.69,
+                                    "r": 0.633,
+                                    "b": 0.286
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/11",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "신청대상",
+                        "chunk_bbox": {
+                            "l": 0.146,
+                            "t": 0.404,
+                            "r": 0.735,
+                            "b": 0.568
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/11",
+                                "label": "text",
+                                "content": "신청대상",
+                                "bbox": {
+                                    "l": 0.146,
+                                    "t": 0.404,
+                                    "r": 0.735,
+                                    "b": 0.568
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/pictures/0",
+                        "chunk_label": "image",
+                        "chunk_type": "image",
+                        "chunk_content": "1단계 개설상품 선택\n\n원하는 상품을 한번에 개설하실 수 있습니다\n\n[IMAGE]\n\n::description::\n1. 이미지 유형: UI/스크린샷\n\n2. 핵심 설명:  \n이 이미지는 모바일 화면에서 원하는 금융 상품을 한 번에 개설할 수 있는 절차의 첫 단계인 '개설상품 선택' 화면을 보여준다. 문서 내에서는 24시간 365일(단, 23:40~00:30 제외) 이용 가능하며 CMA 상품 개설을 안내하는 맥락에서, 사용자가 쉽게 상품을 선택하고 개설할 수 있도록 돕는 UI 예시로 활용된다.\n\n3. 상세 데이터:  \n- UI 종류: 모바일 앱 화면  \n- 주요 요소:  \n  - 상단 뒤로 가기 버튼(←)  \n  - 화면 중앙에 '선택해 주세요'라는 텍스트(부분적으로 보임)  \n  - 화면 하단에 '원하는 상품을 한번에 개설하실 수 있습니다'라는 안내 문구  \n  - '1단계 개설상품 선택'이라는 단계 안내 텍스트  \n- 텍스트 내용:  \n  - \"원하는 상품을 한번에 개설하실 수 있습니다\"  \n  - \"1단계 개설상품 선택\"  \n  - \"선택해 주세요\" (부분 노출)  \n- 레이아웃:  \n  - 상단에 네비게이션 요소(뒤로 가기 버튼)  \n  - 중앙에 선택 안내 텍스트  \n  - 하단에 단계 및 안내 문구 배치  \n- 기타:  \n  - 화면은 흰색 배경에 검은색 텍스트로 심플한 디자인  \n  - 사용자가 상품 선택 단계임을 명확히 인지할 수 있도록 구성됨\n\n문서 내 3페이지 하단 중앙에 위치하며, 사용자에게 상품 개설 절차를 직관적으로 안내하는 역할을 한다.",
+                        "chunk_bbox": {
+                            "l": 0.178,
+                            "t": 0.806,
+                            "r": 0.177,
+                            "b": 0.031
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/20",
+                                "label": "text",
+                                "content": "1단계 개설상품 선택",
+                                "bbox": {
+                                    "l": 0.369,
+                                    "t": 0.806,
+                                    "r": 0.363,
+                                    "b": 0.166
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/21",
+                                "label": "text",
+                                "content": "원하는 상품을 한번에 개설하실 수 있습니다",
+                                "bbox": {
+                                    "l": 0.266,
+                                    "t": 0.847,
+                                    "r": 0.264,
+                                    "b": 0.126
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/pictures/0",
+                                "label": "image",
+                                "content": "[IMAGE]\n\n::description::\n1. 이미지 유형: UI/스크린샷\n\n2. 핵심 설명:  \n이 이미지는 모바일 화면에서 원하는 금융 상품을 한 번에 개설할 수 있는 절차의 첫 단계인 '개설상품 선택' 화면을 보여준다. 문서 내에서는 24시간 365일(단, 23:40~00:30 제외) 이용 가능하며 CMA 상품 개설을 안내하는 맥락에서, 사용자가 쉽게 상품을 선택하고 개설할 수 있도록 돕는 UI 예시로 활용된다.\n\n3. 상세 데이터:  \n- UI 종류: 모바일 앱 화면  \n- 주요 요소:  \n  - 상단 뒤로 가기 버튼(←)  \n  - 화면 중앙에 '선택해 주세요'라는 텍스트(부분적으로 보임)  \n  - 화면 하단에 '원하는 상품을 한번에 개설하실 수 있습니다'라는 안내 문구  \n  - '1단계 개설상품 선택'이라는 단계 안내 텍스트  \n- 텍스트 내용:  \n  - \"원하는 상품을 한번에 개설하실 수 있습니다\"  \n  - \"1단계 개설상품 선택\"  \n  - \"선택해 주세요\" (부분 노출)  \n- 레이아웃:  \n  - 상단에 네비게이션 요소(뒤로 가기 버튼)  \n  - 중앙에 선택 안내 텍스트  \n  - 하단에 단계 및 안내 문구 배치  \n- 기타:  \n  - 화면은 흰색 배경에 검은색 텍스트로 심플한 디자인  \n  - 사용자가 상품 선택 단계임을 명확히 인지할 수 있도록 구성됨\n\n문서 내 3페이지 하단 중앙에 위치하며, 사용자에게 상품 개설 절차를 직관적으로 안내하는 역할을 한다.",
+                                "bbox": {
+                                    "l": 0.178,
+                                    "t": 0.901,
+                                    "r": 0.177,
+                                    "b": 0.031
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "page_no": 4,
+                "chunks": [
+                    {
+                        "chunk_id": "#/texts/22",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "개설할 상품구성을 선택해주세요",
+                        "chunk_bbox": {
+                            "l": 0.209,
+                            "t": 0.047,
+                            "r": 0.647,
+                            "b": 0.912
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/22",
+                                "label": "text",
+                                "content": "개설할 상품구성을 선택해주세요",
+                                "bbox": {
+                                    "l": 0.209,
+                                    "t": 0.047,
+                                    "r": 0.647,
+                                    "b": 0.912
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/24",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "주식거래 + CMA + ISA(중개형)\n\n주식거래, 금융상품 투자, 청약\n\n제세혜택까지 한번에!",
+                        "chunk_bbox": {
+                            "l": 0.567,
+                            "t": 0.073,
+                            "r": 0.221,
+                            "b": 0.871
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/23",
+                                "label": "text",
+                                "content": "주식거래 + CMA + ISA(중개형)",
+                                "bbox": {
+                                    "l": 0.567,
+                                    "t": 0.073,
+                                    "r": 0.221,
+                                    "b": 0.908
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/24",
+                                "label": "text",
+                                "content": "주식거래, 금융상품 투자, 청약\n\n제세혜택까지 한번에!",
+                                "bbox": {
+                                    "l": 0.567,
+                                    "t": 0.102,
+                                    "r": 0.282,
+                                    "b": 0.871
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/26",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "주식거래 + CMA + ISA(중개형)\n\n주식거래, 금융상품 투자, 청약\n\n제세혜택까지 한번에!",
+                        "chunk_bbox": {
+                            "l": 0.222,
+                            "t": 0.132,
+                            "r": 0.584,
+                            "b": 0.812
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/25",
+                                "label": "text",
+                                "content": "주식거래 + CMA + ISA(중개형)",
+                                "bbox": {
+                                    "l": 0.222,
+                                    "t": 0.132,
+                                    "r": 0.584,
+                                    "b": 0.849
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/26",
+                                "label": "text",
+                                "content": "주식거래, 금융상품 투자, 청약\n\n제세혜택까지 한번에!",
+                                "bbox": {
+                                    "l": 0.222,
+                                    "t": 0.162,
+                                    "r": 0.628,
+                                    "b": 0.812
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/27",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "비대면 업무신청 중권카드/보안카드 (재)발급신청  \n\n타기관 OTP 등록",
+                        "chunk_bbox": {
+                            "l": 0.221,
+                            "t": 0.288,
+                            "r": 0.565,
+                            "b": 0.689
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/27",
+                                "label": "text",
+                                "content": "비대면 업무신청 중권카드/보안카드 (재)발급신청  \n\n타기관 OTP 등록",
+                                "bbox": {
+                                    "l": 0.221,
+                                    "t": 0.288,
+                                    "r": 0.565,
+                                    "b": 0.689
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/28",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "비대면 업무신청 중권카드/보안카드 (재)발급신청  \n\n타기관 OTP 등록",
+                        "chunk_bbox": {
+                            "l": 0.566,
+                            "t": 0.287,
+                            "r": 0.219,
+                            "b": 0.689
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/28",
+                                "label": "text",
+                                "content": "비대면 업무신청 중권카드/보안카드 (재)발급신청  \n\n타기관 OTP 등록",
+                                "bbox": {
+                                    "l": 0.566,
+                                    "t": 0.287,
+                                    "r": 0.219,
+                                    "b": 0.689
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/29",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "본인명의휴대폰을통해본인인증을진행하세요\n\n본인확인을 진행합니다",
+                        "chunk_bbox": {
+                            "l": 0.245,
+                            "t": 0.426,
+                            "r": 0.245,
+                            "b": 0.428
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/29",
+                                "label": "text",
+                                "content": "본인명의휴대폰을통해본인인증을진행하세요",
+                                "bbox": {
+                                    "l": 0.245,
+                                    "t": 0.426,
+                                    "r": 0.245,
+                                    "b": 0.546
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/30",
+                                "label": "text",
+                                "content": "본인확인을 진행합니다",
+                                "bbox": {
+                                    "l": 0.358,
+                                    "t": 0.548,
+                                    "r": 0.459,
+                                    "b": 0.428
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/33",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "인증번호 요청\n\n3단계\n\n고객님의금융거래를위해개인정보를입력합니다",
+                        "chunk_bbox": {
+                            "l": 0.247,
+                            "t": 0.747,
+                            "r": 0.227,
+                            "b": 0.076
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/31",
+                                "label": "text",
+                                "content": "인증번호 요청",
+                                "bbox": {
+                                    "l": 0.432,
+                                    "t": 0.747,
+                                    "r": 0.43,
+                                    "b": 0.228
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/32",
+                                "label": "text",
+                                "content": "3단계",
+                                "bbox": {
+                                    "l": 0.37,
+                                    "t": 0.857,
+                                    "r": 0.563,
+                                    "b": 0.12
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/33",
+                                "label": "text",
+                                "content": "고객님의금융거래를위해개인정보를입력합니다",
+                                "bbox": {
+                                    "l": 0.247,
+                                    "t": 0.896,
+                                    "r": 0.227,
+                                    "b": 0.076
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "page_no": 5,
+                "chunks": [
+                    {
+                        "chunk_id": "#/texts/35",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "고객님의 정보를 확인합니다\n\n김대신님이실제사용하실계좌를개설하시나요?\n\n네\n\n이메일주소\n\ndaishin.kim@daishin.com\n\n고객님의 정보를 확인합니다",
+                        "chunk_bbox": {
+                            "l": 0.225,
+                            "t": 0.077,
+                            "r": 0.278,
+                            "b": 0.821
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/34",
+                                "label": "text",
+                                "content": "고객님의 정보를 확인합니다",
+                                "bbox": {
+                                    "l": 0.225,
+                                    "t": 0.077,
+                                    "r": 0.59,
+                                    "b": 0.903
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/35",
+                                "label": "text",
+                                "content": "김대신님이실제사용하실계좌를개설하시나요?\n\n네",
+                                "bbox": {
+                                    "l": 0.225,
+                                    "t": 0.108,
+                                    "r": 0.537,
+                                    "b": 0.861
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/36",
+                                "label": "text",
+                                "content": "이메일주소\n\ndaishin.kim@daishin.com",
+                                "bbox": {
+                                    "l": 0.226,
+                                    "t": 0.148,
+                                    "r": 0.537,
+                                    "b": 0.821
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/37",
+                                "label": "text",
+                                "content": "고객님의 정보를 확인합니다",
+                                "bbox": {
+                                    "l": 0.538,
+                                    "t": 0.077,
+                                    "r": 0.278,
+                                    "b": 0.904
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/40",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "02 ▼ 7692000\n\n04538, 서울 중구 삼일대로\n\n343,24층",
+                        "chunk_bbox": {
+                            "l": 0.226,
+                            "t": 0.2,
+                            "r": 0.537,
+                            "b": 0.722
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/38",
+                                "label": "text",
+                                "content": "02 ▼ 7692000",
+                                "bbox": {
+                                    "l": 0.227,
+                                    "t": 0.2,
+                                    "r": 0.671,
+                                    "b": 0.785
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/39",
+                                "label": "text",
+                                "content": "04538, 서울 중구 삼일대로",
+                                "bbox": {
+                                    "l": 0.226,
+                                    "t": 0.237,
+                                    "r": 0.538,
+                                    "b": 0.745
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/40",
+                                "label": "text",
+                                "content": "343,24층",
+                                "bbox": {
+                                    "l": 0.226,
+                                    "t": 0.258,
+                                    "r": 0.537,
+                                    "b": 0.722
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/47",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "아래 항목을 모두 입력해주세요\n\n직장인/공무원\n\n금융 사무직\n\n대신증권\n\n저축 및 투자\n\n자금출처\n\n근로,연금소득\n\n남세국가\n\n대한민국에만 납세의무 있음",
+                        "chunk_bbox": {
+                            "l": 0.538,
+                            "t": 0.096,
+                            "r": 0.223,
+                            "b": 0.69
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/41",
+                                "label": "text",
+                                "content": "아래 항목을 모두 입력해주세요",
+                                "bbox": {
+                                    "l": 0.539,
+                                    "t": 0.096,
+                                    "r": 0.338,
+                                    "b": 0.888
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/42",
+                                "label": "text",
+                                "content": "직장인/공무원",
+                                "bbox": {
+                                    "l": 0.539,
+                                    "t": 0.133,
+                                    "r": 0.225,
+                                    "b": 0.848
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/43",
+                                "label": "text",
+                                "content": "금융 사무직",
+                                "bbox": {
+                                    "l": 0.539,
+                                    "t": 0.155,
+                                    "r": 0.226,
+                                    "b": 0.827
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/44",
+                                "label": "text",
+                                "content": "대신증권",
+                                "bbox": {
+                                    "l": 0.539,
+                                    "t": 0.176,
+                                    "r": 0.225,
+                                    "b": 0.805
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/45",
+                                "label": "text",
+                                "content": "저축 및 투자",
+                                "bbox": {
+                                    "l": 0.539,
+                                    "t": 0.212,
+                                    "r": 0.225,
+                                    "b": 0.766
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/46",
+                                "label": "text",
+                                "content": "자금출처\n\n근로,연금소득",
+                                "bbox": {
+                                    "l": 0.538,
+                                    "t": 0.246,
+                                    "r": 0.225,
+                                    "b": 0.727
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/47",
+                                "label": "text",
+                                "content": "남세국가\n\n대한민국에만 납세의무 있음",
+                                "bbox": {
+                                    "l": 0.538,
+                                    "t": 0.279,
+                                    "r": 0.223,
+                                    "b": 0.69
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/pictures/1",
+                        "chunk_label": "image",
+                        "chunk_type": "image",
+                        "chunk_content": "4단계 신분증 확인\n\n본인 확인을 위해 신분증을 촬영합니다 주민등록증 또는 운전면허증을 준비해주세요\n\n[IMAGE]\n\n::description::\n1. 이미지 유형: UI/스크린샷\n\n2. 핵심 설명:  \n이 이미지는 본인 확인 절차를 위해 신분증 촬영을 안내하는 모바일 앱 화면의 일부입니다. 주민등록증 또는 운전면허증을 준비해 촬영하라는 메시지를 통해 사용자가 신분증을 준비하도록 유도하는 역할을 합니다.\n\n3. 상세 데이터:  \n- UI 종류: 모바일 앱 화면  \n- 주요 요소:  \n  - 안내 텍스트: \"신분증을 촬영합니다 주민등록증이나 운전면허증을 준비해주세요\"  \n  - 강조된 텍스트: \"주민등록증\"과 \"운전면허증\"은 파란색으로 강조  \n  - 신분증 이미지: 예시로 주민등록증 형태의 카드 이미지가 하단 중앙에 배치됨  \n- 텍스트 내용:  \n  - \"신분증을 촬영합니다\"  \n  - \"주민등록증이나 운전면허증을 준비해주세요\"  \n- 레이아웃:  \n  - 상단에 안내 문구가 위치하며, 하단 중앙에 신분증 예시 이미지가 배치된 단순하고 직관적인 구성  \n- 문서 맥락:  \n  - 본인 확인 절차 중 신분증 촬영 단계에서 사용자에게 필요한 준비물을 명확히 안내하여 원활한 인증 진행을 돕는 화면임\n\n신분증을 촬영합니다\n\n주민등록증이나 운전면허증을\n\n준비해주세요\n\n대신증권이금융기관의본인계좌로1원을송금합니다\n\n입금된 1원의 입금자명에서 3자리를 입력하세요",
+                        "chunk_bbox": {
+                            "l": 0.217,
+                            "t": 0.389,
+                            "r": 0.217,
+                            "b": 0.052
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/48",
+                                "label": "text",
+                                "content": "4단계 신분증 확인",
+                                "bbox": {
+                                    "l": 0.382,
+                                    "t": 0.389,
+                                    "r": 0.373,
+                                    "b": 0.581
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/49",
+                                "label": "text",
+                                "content": "본인 확인을 위해 신분증을 촬영합니다 주민등록증 또는 운전면허증을 준비해주세요",
+                                "bbox": {
+                                    "l": 0.263,
+                                    "t": 0.432,
+                                    "r": 0.263,
+                                    "b": 0.51
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/pictures/1",
+                                "label": "image",
+                                "content": "[IMAGE]\n\n::description::\n1. 이미지 유형: UI/스크린샷\n\n2. 핵심 설명:  \n이 이미지는 본인 확인 절차를 위해 신분증 촬영을 안내하는 모바일 앱 화면의 일부입니다. 주민등록증 또는 운전면허증을 준비해 촬영하라는 메시지를 통해 사용자가 신분증을 준비하도록 유도하는 역할을 합니다.\n\n3. 상세 데이터:  \n- UI 종류: 모바일 앱 화면  \n- 주요 요소:  \n  - 안내 텍스트: \"신분증을 촬영합니다 주민등록증이나 운전면허증을 준비해주세요\"  \n  - 강조된 텍스트: \"주민등록증\"과 \"운전면허증\"은 파란색으로 강조  \n  - 신분증 이미지: 예시로 주민등록증 형태의 카드 이미지가 하단 중앙에 배치됨  \n- 텍스트 내용:  \n  - \"신분증을 촬영합니다\"  \n  - \"주민등록증이나 운전면허증을 준비해주세요\"  \n- 레이아웃:  \n  - 상단에 안내 문구가 위치하며, 하단 중앙에 신분증 예시 이미지가 배치된 단순하고 직관적인 구성  \n- 문서 맥락:  \n  - 본인 확인 절차 중 신분증 촬영 단계에서 사용자에게 필요한 준비물을 명확히 안내하여 원활한 인증 진행을 돕는 화면임",
+                                "bbox": {
+                                    "l": 0.317,
+                                    "t": 0.513,
+                                    "r": 0.317,
+                                    "b": 0.208
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/50",
+                                "label": "text",
+                                "content": "신분증을 촬영합니다\n\n주민등록증이나 운전면허증을\n\n준비해주세요",
+                                "bbox": {
+                                    "l": 0.355,
+                                    "t": 0.588,
+                                    "r": 0.408,
+                                    "b": 0.351
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/51",
+                                "label": "text",
+                                "content": "대신증권이금융기관의본인계좌로1원을송금합니다\n\n입금된 1원의 입금자명에서 3자리를 입력하세요",
+                                "bbox": {
+                                    "l": 0.217,
+                                    "t": 0.89,
+                                    "r": 0.217,
+                                    "b": 0.052
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/pictures/2",
+                        "chunk_label": "image",
+                        "chunk_type": "image",
+                        "chunk_content": "[IMAGE]\n\n::description::\n1. 이미지 유형: UI/스크린샷\n\n2. 핵심 설명:  \n- 이 이미지는 모바일 기기 화면에 신분증 촬영 인터페이스를 보여주고 있으며, 사용자가 주민등록증이나 운전면허증을 준비하여 촬영하도록 안내하는 역할을 한다.  \n- 문서 내에서는 본인 인증 절차의 일부로, 신분증을 촬영하여 본인 확인을 진행하는 과정임을 나타낸다.\n\n3. 상세 데이터:  \n- UI 종류: 모바일 앱 화면  \n- 주요 요소:  \n  - 신분증 촬영 영역 (사각형 프레임)  \n  - 신분증 이미지 예시 (주민등록증 형태)  \n- 텍스트 내용:  \n  - \"신 분 증\"  \n  - \"김 대 신\" (예시 이름)  \n  - \"000000 - 0000000\" (예시 주민등록번호)  \n- 레이아웃:  \n  - 화면 중앙에 신분증 촬영 프레임 배치  \n  - 신분증 이미지가 프레임 안에 위치하여 촬영 대상임을 명확히 함\n\n추가 문서 텍스트와 연계하여, 사용자가 신분증을 촬영하고 이후 본인 계좌로 입금된 1원의 입금자명 3자리를 입력하는 절차임을 이해할 수 있다.",
+                        "chunk_bbox": {
+                            "l": 0.417,
+                            "t": 0.667,
+                            "r": 0.416,
+                            "b": 0.234
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/pictures/2",
+                                "label": "image",
+                                "content": "[IMAGE]\n\n::description::\n1. 이미지 유형: UI/스크린샷\n\n2. 핵심 설명:  \n- 이 이미지는 모바일 기기 화면에 신분증 촬영 인터페이스를 보여주고 있으며, 사용자가 주민등록증이나 운전면허증을 준비하여 촬영하도록 안내하는 역할을 한다.  \n- 문서 내에서는 본인 인증 절차의 일부로, 신분증을 촬영하여 본인 확인을 진행하는 과정임을 나타낸다.\n\n3. 상세 데이터:  \n- UI 종류: 모바일 앱 화면  \n- 주요 요소:  \n  - 신분증 촬영 영역 (사각형 프레임)  \n  - 신분증 이미지 예시 (주민등록증 형태)  \n- 텍스트 내용:  \n  - \"신 분 증\"  \n  - \"김 대 신\" (예시 이름)  \n  - \"000000 - 0000000\" (예시 주민등록번호)  \n- 레이아웃:  \n  - 화면 중앙에 신분증 촬영 프레임 배치  \n  - 신분증 이미지가 프레임 안에 위치하여 촬영 대상임을 명확히 함\n\n추가 문서 텍스트와 연계하여, 사용자가 신분증을 촬영하고 이후 본인 계좌로 입금된 1원의 입금자명 3자리를 입력하는 절차임을 이해할 수 있다.",
+                                "bbox": {
+                                    "l": 0.417,
+                                    "t": 0.667,
+                                    "r": 0.416,
+                                    "b": 0.234
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "page_no": 6,
+                "chunks": [
+                    {
+                        "chunk_id": "#/pictures/3",
+                        "chunk_label": "image",
+                        "chunk_type": "image",
+                        "chunk_content": "[IMAGE]\n\n::description::\n1. 이미지 유형: UI/스크린샷\n\n2. 핵심 설명:  \n이 이미지는 모바일 화면에서 6단계 비밀번호 입력 과정 중 하나로, 입금자명에서 3자리 숫자를 입력하도록 안내하는 UI를 보여준다. 문서 내에서는 비밀번호 입력 절차를 설명하거나 사용자 인증 과정의 일부를 시각적으로 나타내는 역할을 한다.\n\n3. 상세 데이터:  \n- UI 종류: 모바일 앱 화면 (인증/비밀번호 입력)  \n- 주요 요소:  \n  - 안내 텍스트: \"입금자명에서 3자리 숫자를 입력해주세요\"  \n  - 회사명 및 로고: \"대신증권\"과 로고 아이콘  \n  - 계좌번호: \"10189818401\"  \n  - 수정 버튼: \"수정\" (파란색 버튼)  \n  - 비밀번호 입력 칸: 3자리 숫자 입력 표시 (●●●)  \n  - 입금액 표시: \"입금 1 원\" (빨간색 텍스트)  \n  - 인증번호 입력 안내: \"인증번호 뒤 3자리 숫자 입력\" (희미한 회색 텍스트)  \n- 레이아웃:  \n  - 상단에 안내 문구 위치  \n  - 중앙에 대신증권 정보와 수정 버튼 배치  \n  - 화면 중앙에 비밀번호 입력 칸과 입금액 표시  \n  - 하단에 인증번호 입력 안내 텍스트 배치  \n- 텍스트 정보 완전 추출:  \n  - \"입금자명에서 3자리 숫자를 입력해주세요\"  \n  - \"대신증권\"  \n  - \"10189818401\"  \n  - \"수정\"  \n  - \"입금 1 원\"  \n  - \"인증번호 뒤 3자리 숫자 입력\"  \n\n이 화면은 사용자가 입금자명에 포함된 3자리 숫자를 입력하여 인증하는 단계임을 명확히 안내하며, 문서 내 비밀번호 입력 절차의 시각적 예시로 기능한다.\n\n6단계 비밀번호 입력",
+                        "chunk_bbox": {
+                            "l": 0.322,
+                            "t": 0.039,
+                            "r": 0.32,
+                            "b": 0.529
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/pictures/3",
+                                "label": "image",
+                                "content": "[IMAGE]\n\n::description::\n1. 이미지 유형: UI/스크린샷\n\n2. 핵심 설명:  \n이 이미지는 모바일 화면에서 6단계 비밀번호 입력 과정 중 하나로, 입금자명에서 3자리 숫자를 입력하도록 안내하는 UI를 보여준다. 문서 내에서는 비밀번호 입력 절차를 설명하거나 사용자 인증 과정의 일부를 시각적으로 나타내는 역할을 한다.\n\n3. 상세 데이터:  \n- UI 종류: 모바일 앱 화면 (인증/비밀번호 입력)  \n- 주요 요소:  \n  - 안내 텍스트: \"입금자명에서 3자리 숫자를 입력해주세요\"  \n  - 회사명 및 로고: \"대신증권\"과 로고 아이콘  \n  - 계좌번호: \"10189818401\"  \n  - 수정 버튼: \"수정\" (파란색 버튼)  \n  - 비밀번호 입력 칸: 3자리 숫자 입력 표시 (●●●)  \n  - 입금액 표시: \"입금 1 원\" (빨간색 텍스트)  \n  - 인증번호 입력 안내: \"인증번호 뒤 3자리 숫자 입력\" (희미한 회색 텍스트)  \n- 레이아웃:  \n  - 상단에 안내 문구 위치  \n  - 중앙에 대신증권 정보와 수정 버튼 배치  \n  - 화면 중앙에 비밀번호 입력 칸과 입금액 표시  \n  - 하단에 인증번호 입력 안내 텍스트 배치  \n- 텍스트 정보 완전 추출:  \n  - \"입금자명에서 3자리 숫자를 입력해주세요\"  \n  - \"대신증권\"  \n  - \"10189818401\"  \n  - \"수정\"  \n  - \"입금 1 원\"  \n  - \"인증번호 뒤 3자리 숫자 입력\"  \n\n이 화면은 사용자가 입금자명에 포함된 3자리 숫자를 입력하여 인증하는 단계임을 명확히 안내하며, 문서 내 비밀번호 입력 절차의 시각적 예시로 기능한다.",
+                                "bbox": {
+                                    "l": 0.322,
+                                    "t": 0.039,
+                                    "r": 0.32,
+                                    "b": 0.617
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/52",
+                                "label": "text",
+                                "content": "6단계 비밀번호 입력",
+                                "bbox": {
+                                    "l": 0.367,
+                                    "t": 0.441,
+                                    "r": 0.359,
+                                    "b": 0.529
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/pictures/4",
+                        "chunk_label": "image",
+                        "chunk_type": "image",
+                        "chunk_content": "계좌비밀번호와 로그인을 위한 간편비밀번호를 등록하세요\n\n[IMAGE]\n\n::description::\n1. 이미지 유형: UI/스크린샷\n\n2. 핵심 설명:  \n이 이미지는 모바일 앱 화면으로, 신규 계좌 비밀번호와 로그인용 간편 비밀번호를 등록하는 과정을 보여준다. 사용자가 각각 4~8자리 비밀번호와 6자리 간편 비밀번호를 입력할 수 있도록 안내하며, 문서 내에서는 계좌 보안 설정 절차를 설명하는 역할을 한다.\n\n3. 상세 데이터:  \n- UI 종류: 모바일 앱 비밀번호 등록 화면  \n- 주요 요소:  \n  - 텍스트 입력 안내 문구  \n  - 비밀번호 입력 표시(●●●●)  \n  - 숫자 키패드(숫자 0~9, 삭제 및 완료 버튼)  \n- 텍스트 내용:  \n  (왼쪽 화면)  \n  - \"신규 계좌에 사용하실 비밀번호를 입력해주세요\"  \n  - \"4~8자리로 등록하실 수 있습니다\"  \n  - \"단, 4자리로 등록하신 경우에만 현금인출기를 이용하실 수 있습니다\"  \n  (오른쪽 화면)  \n  - \"로그인을 위한 간편비밀번호를 입력해주세요\" (간편비밀번호는 파란색 강조)  \n- 레이아웃:  \n  - 상단에 안내 문구 위치  \n  - 중간에 비밀번호 입력 상태 표시(●●●● 또는 ●●●●●●)  \n  - 하단에 숫자 키패드 3열 4행 배열 (2 8 3 / 5 6 7 / 9 4 1 / [지우기 아이콘] 0 [뒤로가기 아이콘])  \n  - 완료 버튼은 흐릿하게 표시되어 비활성화 상태로 보임  \n- 기타:  \n  - 비밀번호 입력 자리 수에 따라 입력 점(●) 개수 다름  \n  - 두 화면은 각각 계좌 비밀번호 등록과 간편 비밀번호 등록 단계를 나타냄",
+                        "chunk_bbox": {
+                            "l": 0.191,
+                            "t": 0.484,
+                            "r": 0.192,
+                            "b": 0.132
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/53",
+                                "label": "text",
+                                "content": "계좌비밀번호와 로그인을 위한 간편비밀번호를 등록하세요",
+                                "bbox": {
+                                    "l": 0.191,
+                                    "t": 0.484,
+                                    "r": 0.192,
+                                    "b": 0.49
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/pictures/4",
+                                "label": "image",
+                                "content": "[IMAGE]\n\n::description::\n1. 이미지 유형: UI/스크린샷\n\n2. 핵심 설명:  \n이 이미지는 모바일 앱 화면으로, 신규 계좌 비밀번호와 로그인용 간편 비밀번호를 등록하는 과정을 보여준다. 사용자가 각각 4~8자리 비밀번호와 6자리 간편 비밀번호를 입력할 수 있도록 안내하며, 문서 내에서는 계좌 보안 설정 절차를 설명하는 역할을 한다.\n\n3. 상세 데이터:  \n- UI 종류: 모바일 앱 비밀번호 등록 화면  \n- 주요 요소:  \n  - 텍스트 입력 안내 문구  \n  - 비밀번호 입력 표시(●●●●)  \n  - 숫자 키패드(숫자 0~9, 삭제 및 완료 버튼)  \n- 텍스트 내용:  \n  (왼쪽 화면)  \n  - \"신규 계좌에 사용하실 비밀번호를 입력해주세요\"  \n  - \"4~8자리로 등록하실 수 있습니다\"  \n  - \"단, 4자리로 등록하신 경우에만 현금인출기를 이용하실 수 있습니다\"  \n  (오른쪽 화면)  \n  - \"로그인을 위한 간편비밀번호를 입력해주세요\" (간편비밀번호는 파란색 강조)  \n- 레이아웃:  \n  - 상단에 안내 문구 위치  \n  - 중간에 비밀번호 입력 상태 표시(●●●● 또는 ●●●●●●)  \n  - 하단에 숫자 키패드 3열 4행 배열 (2 8 3 / 5 6 7 / 9 4 1 / [지우기 아이콘] 0 [뒤로가기 아이콘])  \n  - 완료 버튼은 흐릿하게 표시되어 비활성화 상태로 보임  \n- 기타:  \n  - 비밀번호 입력 자리 수에 따라 입력 점(●) 개수 다름  \n  - 두 화면은 각각 계좌 비밀번호 등록과 간편 비밀번호 등록 단계를 나타냄",
+                                "bbox": {
+                                    "l": 0.192,
+                                    "t": 0.535,
+                                    "r": 0.198,
+                                    "b": 0.132
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "page_no": 7,
+                "chunks": [
+                    {
+                        "chunk_id": "#/texts/54",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "계좌개설 이어하기와 비대면 업무신청\n\n선택해주세요",
+                        "chunk_bbox": {
+                            "l": 0.327,
+                            "t": 0.043,
+                            "r": 0.243,
+                            "b": 0.847
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/54",
+                                "label": "text",
+                                "content": "계좌개설 이어하기와 비대면 업무신청",
+                                "bbox": {
+                                    "l": 0.327,
+                                    "t": 0.043,
+                                    "r": 0.243,
+                                    "b": 0.928
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/55",
+                                "label": "text",
+                                "content": "선택해주세요",
+                                "bbox": {
+                                    "l": 0.565,
+                                    "t": 0.131,
+                                    "r": 0.33,
+                                    "b": 0.847
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/56",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "계좌개설 신청내역이 있습니다.\n\n이어서신청하시겠습니까?\n\n다시 신청하기",
+                        "chunk_bbox": {
+                            "l": 0.184,
+                            "t": 0.263,
+                            "r": 0.588,
+                            "b": 0.638
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/56",
+                                "label": "text",
+                                "content": "계좌개설 신청내역이 있습니다.\n\n이어서신청하시겠습니까?",
+                                "bbox": {
+                                    "l": 0.228,
+                                    "t": 0.263,
+                                    "r": 0.588,
+                                    "b": 0.693
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/57",
+                                "label": "text",
+                                "content": "다시 신청하기",
+                                "bbox": {
+                                    "l": 0.184,
+                                    "t": 0.341,
+                                    "r": 0.727,
+                                    "b": 0.638
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/61",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "주식거래, 금융상품 투자, 청약\n\n제세혜택까지 한번에!\n\n비대면 업무신청\n\n증권카드/보안카드 (재)발급신청  \n\n타기관 OTP 등록\n\n비대면 업무신청 중권카드/보안카드 (재)발급신청\n\n타기관 OTP 등록",
+                        "chunk_bbox": {
+                            "l": 0.533,
+                            "t": 0.227,
+                            "r": 0.17,
+                            "b": 0.622
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/58",
+                                "label": "text",
+                                "content": "주식거래, 금융상품 투자, 청약\n\n제세혜택까지 한번에!",
+                                "bbox": {
+                                    "l": 0.576,
+                                    "t": 0.227,
+                                    "r": 0.274,
+                                    "b": 0.745
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/59",
+                                "label": "text",
+                                "content": "비대면 업무신청",
+                                "bbox": {
+                                    "l": 0.533,
+                                    "t": 0.326,
+                                    "r": 0.379,
+                                    "b": 0.656
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/60",
+                                "label": "text",
+                                "content": "증권카드/보안카드 (재)발급신청  \n\n타기관 OTP 등록",
+                                "bbox": {
+                                    "l": 0.687,
+                                    "t": 0.326,
+                                    "r": 0.17,
+                                    "b": 0.647
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/61",
+                                "label": "text",
+                                "content": "비대면 업무신청 중권카드/보안카드 (재)발급신청\n\n타기관 OTP 등록",
+                                "bbox": {
+                                    "l": 0.575,
+                                    "t": 0.355,
+                                    "r": 0.213,
+                                    "b": 0.622
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "chunk_id": "#/texts/65",
+                        "chunk_label": "text",
+                        "chunk_type": "section",
+                        "chunk_content": "Tip1. 계좌개설 이어하기\n\n계좌개설를 완료하지 못했다면\n\n7일 이내 이어하실 수 있습니다\n\nTip2. 비대면 업무신청\n\n증권카드/보안카드를 신청하거나  \n\n타기관 OTP 등록은 비대면 업무신청에서  \n\n진행할 수 있습니다",
+                        "chunk_bbox": {
+                            "l": 0.191,
+                            "t": 0.428,
+                            "r": 0.166,
+                            "b": 0.478
+                        },
+                        "blocks": [
+                            {
+                                "id": "#/texts/62",
+                                "label": "text",
+                                "content": "Tip1. 계좌개설 이어하기",
+                                "bbox": {
+                                    "l": 0.193,
+                                    "t": 0.428,
+                                    "r": 0.549,
+                                    "b": 0.547
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/63",
+                                "label": "text",
+                                "content": "계좌개설를 완료하지 못했다면\n\n7일 이내 이어하실 수 있습니다",
+                                "bbox": {
+                                    "l": 0.191,
+                                    "t": 0.456,
+                                    "r": 0.537,
+                                    "b": 0.498
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": false
+                                }
+                            },
+                            {
+                                "id": "#/texts/64",
+                                "label": "text",
+                                "content": "Tip2. 비대면 업무신청",
+                                "bbox": {
+                                    "l": 0.56,
+                                    "t": 0.428,
+                                    "r": 0.205,
+                                    "b": 0.547
+                                },
+                                "role": {
+                                    "is_anchor": false,
+                                    "is_small_text": true
+                                }
+                            },
+                            {
+                                "id": "#/texts/65",
+                                "label": "text",
+                                "content": "증권카드/보안카드를 신청하거나  \n\n타기관 OTP 등록은 비대면 업무신청에서  \n\n진행할 수 있습니다",
+                                "bbox": {
+                                    "l": 0.521,
+                                    "t": 0.456,
+                                    "r": 0.166,
+                                    "b": 0.478
+                                },
+                                "role": {
+                                    "is_anchor": true,
+                                    "is_small_text": false
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "metadata": {
+            "filename": "고객센터 - 비대면계좌개설.pdf",
+            "total_pages": 7,
+            "total_chunks": 23,
+            "processing_sec": 13.914440631866455
+        }
+    },
+    13957
+]
