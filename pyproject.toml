@@ -8,6 +8,7 @@ dependencies = [
     "graphiti-core>=0.26.3",
     "langchain-core>=1.2.8",
     "langgraph>=1.0.7",
+    "logging>=0.4.9.6",
     "neo4j>=6.1.0",
     "neo4j-graphrag[openai]>=1.13.0",
     "python-dotenv>=1.2.1",
